@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\exercicio03.exe
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\exercicio03.deps.json
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\exercicio03.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\exercicio03.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\ref\exercicio03.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\bin\Debug\net6.0\exercicio03.pdb
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\ref\exercicio03.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.pdb
+C:\Users\Usuario\Desktop\C#\ListaExercicios02\exercicio03\obj\Debug\net6.0\exercicio03.genruntimeconfig.cache
